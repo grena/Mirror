@@ -1,6 +1,6 @@
 # Network Headless Logger
 
-Network Headless Logger replaces the the default log handler with one that set `Console.ForegroundColor`. 
+Network Headless Logger replaces the default log handler with one that set `Console.ForegroundColor`. 
 
 Only replaces the handler when running in headless mode.
 
